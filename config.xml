@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.PTODroidMobile" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PTODroidMobile</name>
+    <description>
+        Penn United Mobile Employee PTO APP
+    </description>
+    <author email="justin_snow@pennunited.com" href="http://www.pennunited.com">
+        Justin Snow
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
